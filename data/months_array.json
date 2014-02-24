@@ -1,0 +1,159 @@
+[
+  {
+    "value": 5,
+    "monthIndex": "0",
+    "titles": [
+      "Cimarron",
+      "Cavalcade",
+      "The Greatest Show on Earth",
+      "The Silence of the Lambs",
+      "The Hurt Locker"
+    ]
+  },
+  {
+    "value": 3,
+    "monthIndex": "1",
+    "titles": [
+      "The Broadway Melody",
+      "It Happened One Night",
+      "Patton"
+    ]
+  },
+  {
+    "value": 4,
+    "monthIndex": "2",
+    "titles": [
+      "The Great Ziegfeld",
+      "Rebecca",
+      "The Sound of Music",
+      "The Godfather"
+    ]
+  },
+  {
+    "value": 4,
+    "monthIndex": "3",
+    "titles": [
+      "All Quiet on the Western Front",
+      "Grand Hotel",
+      "Annie Hall",
+      "Crash"
+    ]
+  },
+  {
+    "value": 4,
+    "monthIndex": "4",
+    "titles": [
+      "Wings",
+      "Midnight Cowboy",
+      "Braveheart",
+      "Gladiator"
+    ]
+  },
+  {
+    "value": 2,
+    "monthIndex": "5",
+    "titles": [
+      "The Apartment",
+      "Forrest Gump"
+    ]
+  },
+  {
+    "value": 4,
+    "monthIndex": "6",
+    "titles": [
+      "Mrs. Miniver",
+      "On the Waterfront",
+      "Marty",
+      "Gigi"
+    ]
+  },
+  {
+    "value": 5,
+    "monthIndex": "7",
+    "titles": [
+      "The Life of Emile Zola",
+      "You Can't Take It with You",
+      "Going My Way",
+      "In the Heat of the Night",
+      "Unforgiven"
+    ]
+  },
+  {
+    "value": 5,
+    "monthIndex": "8",
+    "titles": [
+      "From Here to Eternity",
+      "Ordinary People",
+      "Amadeus",
+      "American Beauty",
+      "The Departed"
+    ]
+  },
+  {
+    "value": 10,
+    "monthIndex": "9",
+    "titles": [
+      "How Green Was My Valley",
+      "Hamlet",
+      "All About Eve",
+      "An American in Paris",
+      "Tom Jones",
+      "My Fair Lady",
+      "The French Connection",
+      "Chariots of Fire",
+      "Dances With Wolves",
+      "Argo"
+    ]
+  },
+  {
+    "value": 15,
+    "monthIndex": "10",
+    "titles": [
+      "Mutiny on the Bounty",
+      "Casablanca",
+      "The Lost Weekend",
+      "Gentleman's Agreement",
+      "All the Kings Men",
+      "Ben-Hur",
+      "One Flew over the Cuckoo's Nest",
+      "Rocky",
+      "Terms of Endearment",
+      "The Last Emperor",
+      "Schindler's List",
+      "The English Patient",
+      "No Country for Old Men",
+      "Slumdog Millionaire",
+      "The Artist"
+    ]
+  },
+  {
+    "value": 24,
+    "monthIndex": "11",
+    "titles": [
+      "Gone with the Wind",
+      "The Best Years of Our Lives",
+      "Around the World in 80 Days",
+      "The Bridge on the River Kwai",
+      "West Side Story",
+      "Lawrence of Arabia",
+      "A Man for All Seasons",
+      "Oliver!",
+      "The Sting",
+      "The Godfather Part II",
+      "The Deer Hunter",
+      "Kramer vs. Kramer",
+      "Gandhi",
+      "Out of Africa",
+      "Platoon",
+      "Rain Man",
+      "Driving Miss Daisy",
+      "Titanic",
+      "Shakespeare in Love",
+      "A Beautiful Mind",
+      "Chicago",
+      "The Lord of the Rings: The Return of the King",
+      "Million Dollar Baby",
+      "The King's Speech"
+    ]
+  }
+]
