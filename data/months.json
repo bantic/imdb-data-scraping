@@ -1,0 +1,147 @@
+{
+  "0": {
+    "value": 5,
+    "titles": [
+      "Cimarron",
+      "Cavalcade",
+      "The Greatest Show on Earth",
+      "The Silence of the Lambs",
+      "The Hurt Locker"
+    ]
+  },
+  "1": {
+    "value": 3,
+    "titles": [
+      "The Broadway Melody",
+      "It Happened One Night",
+      "Patton"
+    ]
+  },
+  "2": {
+    "value": 4,
+    "titles": [
+      "The Great Ziegfeld",
+      "Rebecca",
+      "The Sound of Music",
+      "The Godfather"
+    ]
+  },
+  "3": {
+    "value": 4,
+    "titles": [
+      "All Quiet on the Western Front",
+      "Grand Hotel",
+      "Annie Hall",
+      "Crash"
+    ]
+  },
+  "4": {
+    "value": 4,
+    "titles": [
+      "Wings",
+      "Midnight Cowboy",
+      "Braveheart",
+      "Gladiator"
+    ]
+  },
+  "5": {
+    "value": 2,
+    "titles": [
+      "The Apartment",
+      "Forrest Gump"
+    ]
+  },
+  "6": {
+    "value": 4,
+    "titles": [
+      "Mrs. Miniver",
+      "On the Waterfront",
+      "Marty",
+      "Gigi"
+    ]
+  },
+  "7": {
+    "value": 5,
+    "titles": [
+      "The Life of Emile Zola",
+      "You Can't Take It with You",
+      "Going My Way",
+      "In the Heat of the Night",
+      "Unforgiven"
+    ]
+  },
+  "8": {
+    "value": 5,
+    "titles": [
+      "From Here to Eternity",
+      "Ordinary People",
+      "Amadeus",
+      "American Beauty",
+      "The Departed"
+    ]
+  },
+  "9": {
+    "value": 10,
+    "titles": [
+      "How Green Was My Valley",
+      "Hamlet",
+      "All About Eve",
+      "An American in Paris",
+      "Tom Jones",
+      "My Fair Lady",
+      "The French Connection",
+      "Chariots of Fire",
+      "Dances With Wolves",
+      "Argo"
+    ]
+  },
+  "10": {
+    "value": 15,
+    "titles": [
+      "Mutiny on the Bounty",
+      "Casablanca",
+      "The Lost Weekend",
+      "Gentleman's Agreement",
+      "All the Kings Men",
+      "Ben-Hur",
+      "One Flew over the Cuckoo's Nest",
+      "Rocky",
+      "Terms of Endearment",
+      "The Last Emperor",
+      "Schindler's List",
+      "The English Patient",
+      "No Country for Old Men",
+      "Slumdog Millionaire",
+      "The Artist"
+    ]
+  },
+  "11": {
+    "value": 24,
+    "titles": [
+      "Gone with the Wind",
+      "The Best Years of Our Lives",
+      "Around the World in 80 Days",
+      "The Bridge on the River Kwai",
+      "West Side Story",
+      "Lawrence of Arabia",
+      "A Man for All Seasons",
+      "Oliver!",
+      "The Sting",
+      "The Godfather Part II",
+      "The Deer Hunter",
+      "Kramer vs. Kramer",
+      "Gandhi",
+      "Out of Africa",
+      "Platoon",
+      "Rain Man",
+      "Driving Miss Daisy",
+      "Titanic",
+      "Shakespeare in Love",
+      "A Beautiful Mind",
+      "Chicago",
+      "The Lord of the Rings: The Return of the King",
+      "Million Dollar Baby",
+      "The King's Speech"
+    ]
+  }
+}
