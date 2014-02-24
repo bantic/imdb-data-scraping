@@ -2,34 +2,34 @@
   "1927": {
     "title": "Wings",
     "imdbId": "tt0018578",
-    "releaseDate": "1928-01-15T05:00:00.000Z",
+    "releaseDate": "1927-05-19T05:00:00.000Z",
     "releaseCountry": "USA"
   },
-  "1928": {
+  "1929": {
     "title": "The Broadway Melody",
     "imdbId": "tt0019729",
     "releaseDate": "1929-02-01T05:00:00.000Z",
     "releaseCountry": "USA"
   },
-  "1929": {
+  "1930": {
     "title": "All Quiet on the Western Front",
     "imdbId": "tt0020629",
     "releaseDate": "1930-04-21T04:00:00.000Z",
     "releaseCountry": "USA"
   },
-  "1930": {
+  "1931": {
     "title": "Cimarron",
     "imdbId": "tt0021746",
     "releaseDate": "1931-01-26T05:00:00.000Z",
     "releaseCountry": "USA"
   },
-  "1931": {
+  "1932": {
     "title": "Grand Hotel",
     "imdbId": "tt0022958",
     "releaseDate": "1932-04-12T04:00:00.000Z",
     "releaseCountry": "USA"
   },
-  "1932": {
+  "1933": {
     "title": "Cavalcade",
     "imdbId": "tt0023876",
     "releaseDate": "1933-01-05T05:00:00.000Z",
@@ -80,14 +80,14 @@
   "1941": {
     "title": "How Green Was My Valley",
     "imdbId": "tt0033729",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "1941-10-28T05:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "1942": {
     "title": "Mrs. Miniver",
     "imdbId": "tt0035093",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "1942-07-22T04:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "1943": {
     "title": "Casablanca",
@@ -296,32 +296,32 @@
   "1977": {
     "title": "Annie Hall",
     "imdbId": "tt0075686",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "1977-04-20T05:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "1978": {
     "title": "The Deer Hunter",
     "imdbId": "tt0077416",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "1978-12-08T05:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "1979": {
     "title": "Kramer vs. Kramer",
     "imdbId": "tt0079417",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "1979-12-19T05:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "1980": {
     "title": "Ordinary People",
     "imdbId": "tt0081283",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "1980-09-26T04:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "1981": {
     "title": "Chariots of Fire",
     "imdbId": "tt0082158",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "1981-10-09T04:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "1982": {
     "title": "Gandhi",
@@ -350,8 +350,8 @@
   "1986": {
     "title": "Platoon",
     "imdbId": "tt0091763",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "1986-12-19T05:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "1987": {
     "title": "The Last Emperor",
@@ -368,8 +368,8 @@
   "1989": {
     "title": "Driving Miss Daisy",
     "imdbId": "tt0097239",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "1989-12-15T05:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "1990": {
     "title": "Dances With Wolves",
@@ -452,14 +452,14 @@
   "2003": {
     "title": "The Lord of the Rings: The Return of the King",
     "imdbId": "tt0167260",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "2003-12-17T05:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "2004": {
     "title": "Million Dollar Baby",
     "imdbId": "tt0405159",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "2004-12-15T05:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "2005": {
     "title": "Crash",
@@ -482,26 +482,26 @@
   "2008": {
     "title": "Slumdog Millionaire",
     "imdbId": "tt1010048",
-    "releaseDate": "2009-01-23T05:00:00.000Z",
+    "releaseDate": "2008-11-12T05:00:00.000Z",
     "releaseCountry": "USA"
   },
   "2009": {
     "title": "The Hurt Locker",
     "imdbId": "tt1655246",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "2009-01-29T05:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "2010": {
     "title": "The King's Speech",
     "imdbId": "tt1504320",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "2010-12-24T05:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "2011": {
     "title": "The Artist",
     "imdbId": "tt1655442",
-    "releaseDate": null,
-    "releaseCountry": null
+    "releaseDate": "2011-11-23T05:00:00.000Z",
+    "releaseCountry": "USA"
   },
   "2012": {
     "title": "Argo",
