@@ -11,6 +11,7 @@
   "dependencies": {
     "cheerio": "~0.13.1",
     "request": "~2.34.0",
-    "rsvp": "~3.0.6"
+    "rsvp": "~3.0.6",
+    "jsonfile": "~1.1.1"
   }
 }
