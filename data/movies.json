@@ -1,4 +1,4 @@
-module.exports = {
+{
   "1927": {"title": "Wings", "imdbId": "tt0018578" },
   "1928": {"title": "The Broadway Melody", "imdbId": "tt0019729" },
   "1929": {"title": "All Quiet on the Western Front", "imdbId": "tt0020629" },
@@ -88,4 +88,4 @@ module.exports = {
   "2010": { "title": "The King's Speech", "imdbId": "tt1504320" },
   "2011": { "title": "The Artist", "imdbId": "tt1655442" },
   "2012": { "title": "Argo", "imdbId": "tt1024648" }
-};
+}
